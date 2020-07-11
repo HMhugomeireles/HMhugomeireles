@@ -3,7 +3,8 @@
 #  I´m Hugo Meireles.🧑‍💻
 
 ## I´m fullstack developer, 
-In nowadays work on Frontend role with React/JavaScript and enjoy it❤️. 
+In nowadays work on Frontend role with React/JavaScript and enjoy it❤️.
+
 I am passionate for delivering a good experience to the end user and for solving problems with code. I am a strong defender of clean code and I value its impact on the end user satisfaction. I have a constant craving for knowledge.
 
 ### ℹ️ More information
